@@ -1,2 +1,2 @@
 # projects
-Python for MBAs
+Python for MBAs at Columbia Business School
